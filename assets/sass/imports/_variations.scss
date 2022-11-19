@@ -50,7 +50,7 @@
   .project-card__subtitle,
   .project__subtitle,
   .section__subtitle {
-    color: $color-lighter-black;
+    color: $color-white;
   }
 
   .form-select-wrap:before {
@@ -58,7 +58,7 @@
   }
 
   .site-footer a:not(.button) {
-    border-bottom-color: rgba($color-lighter-black, .4);
+    border-bottom-color: rgba($color-white, .4);
   }
 
   ::-webkit-input-placeholder {
