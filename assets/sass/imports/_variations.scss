@@ -17,7 +17,7 @@
   textarea,
   .site-header,
   .site-footer {
-    border-color: $color-gray-700;
+    border-color: $color-lighter-black;
   }
 
   h1,
@@ -36,7 +36,7 @@
   .text-block pre,
   .section__bg,
   .section--form form {
-    background: $color-gray-800;
+    background: $color-lighter-black;
   }
 
   .button--icon,
@@ -50,41 +50,41 @@
   .project-card__subtitle,
   .project__subtitle,
   .section__subtitle {
-    color: $color-gray-400;
+    color: $color-lighter-black;
   }
 
   .form-select-wrap:before {
-    border-color: $color-gray-400;
+    border-color: $color-lighter-black;
   }
 
   .site-footer a:not(.button) {
-    border-bottom-color: rgba($color-gray-100, .4);
+    border-bottom-color: rgba($color--lighter-black, .4);
   }
 
   ::-webkit-input-placeholder {
-    color: $color-gray-500;
+    color: $color-lighter-black;
   }
   
   ::-moz-placeholder {
-    color: $color-gray-500;
+    color: $color-lighter-black;
     opacity: 1;
   }
   
   :-ms-input-placeholder {
-    color: $color-gray-500;
+    color: $color-lighter-black;
   }
   
   ::-ms-input-placeholder {
-    color: $color-gray-500;
+    color: $color-lighter-black;
   }
   
   ::placeholder {
-    color: $color-gray-500;
+    color: $color-lighter-black;
   }
 
   @media only screen and (min-width: 768px) {
     .project-card__header {
-      background-color: $color-gray-800;
+      background-color: $color-lighter-black;
     }
   }
 
@@ -94,7 +94,7 @@
     }
 
     .navbar__menu-container {
-      background: $color-gray-900;
+      background: $color-lighter-black;
     }
   }
 }
