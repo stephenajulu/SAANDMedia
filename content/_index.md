@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We help brands & businesses thrive in this digital era using well weathered strategies.
+      We help brands thrive in this digital era using well weathered strategies.
     content: >-
       [Learn more](/contact/).
   - type: portfolio_section
@@ -73,39 +73,36 @@ sections:
     section_id: cta
     title: Let’s Work Together!
     content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+      Say hello at [ajulu@hyvaros.co.ke](mailto:info@hyvaros.co.ke) or tell us more
+      about your brand, mission and goals by getting started below.
     actions:
-      - label: Let's start
+      - label: Let get started
         url: /contact
         style: button
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
 seo:
-  title: Award Winning Agency Based in San Francisco
+  title: Hyvaros Agency
   description: >-
-    We are a brand and design practice. We work closely with you, your team to
-    deliver inspiring work, which enables your organization to grow.
+    We help brands thrive in this digital era using well weathered strategies.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Award Winning Agency Based in San Francisco
+      value: Hyvaros Agency
       keyName: property
     - name: 'og:description'
       value: >-
-        We are a brand and design practice. We work closely with you, your team
-        to deliver inspiring work, which enables your organization to grow.
+        We help brands thrive in this digital era using well weathered strategies.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Award Winning Agency Based in San Francisco
+      value: Hyvaros Agency
     - name: 'twitter:description'
       value: >-
-        We are a brand and design practice. We work closely with you, your team
-        to deliver inspiring work, which enables your organization to grow.
+        We help brands thrive in this digital era using well weathered strategies.
 layout: advanced
 ---
