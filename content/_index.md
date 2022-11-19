@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We help brands thrive in this digital era using well weathered strategies.
+      We help brands thrive and go further in this digital era using strategies born from years of experience in tech and writing.
     content: >-
       [Learn more](/contact/).
   - type: portfolio_section
