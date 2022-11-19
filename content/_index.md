@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We help brands thrive and go further in this digital era using strategies born from years of experience in tech and writing.
+      We make brands visible in this digital world filled with clutter using strategies born from years of ample research and experience with proven success!
     content: >-
       [Learn more](/contact/).
   - type: portfolio_section
