@@ -10,7 +10,7 @@ sections:
       [Learn more](/contact/).
   - type: portfolio_section
     section_id: latest-projects
-    layout_style: tiles
+    layout_style: mosaic
     title: Recent Work
     subtitle: Explore case studies
     projects_number: 6
