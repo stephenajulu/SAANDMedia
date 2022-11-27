@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We make brands visible in this digital world filled with clutter using proven strategies born from years of ample research and experience!
+      We make brands visible in this digital world filled with clutter using proven strategies crafted from years of ample research and experience!
     content: >-
       [Learn more](/contact/).
   - type: portfolio_section
@@ -17,58 +17,32 @@ sections:
     view_all_label: View All
     view_all_url: portfolio
   - type: grid_section
-    section_id: clients
-    title: Clients
-    subtitle: A few of the companies we're proud to call partners
-    col_number: three
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
-      - image: images/logo-2.svg
-        image_alt: Logo 2
-      - image: images/logo-3.svg
-        image_alt: Logo 3
-      - image: images/logo-4.svg
-        image_alt: Logo 4
-      - image: images/logo-5.svg
-        image_alt: Logo 5
-  - type: grid_section
     section_id: services
     title: Services
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: Business design
+      - title: Design/Branding
         image: images/service-1.svg
         content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
-      - title: Brand design
+          - Logo Design
+          - Visual Identity Design
+          - Poster Design
+          - UI/UX/Web Design
+      - title: Development/Crafting
         image: images/service-2.svg
         content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
-      - title: Experience design
+          - Website Development
+          - Landing Page Development
+          - Microsite Development
+          - E-commerce Store Development
+      - title: Marketing/Content
         image: images/service-3.svg
         content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+          - Content Writing
+          - Short Video Editing
+          - Paid AD Marketing
+          - Search Engine Optimization
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
@@ -83,26 +57,26 @@ sections:
     image_alt: Illustration
     bg_color: light
 seo:
-  title: Hyvaros Agency
+  title: Hyvaros
   description: >-
-    We help brands thrive in this digital era using well weathered strategies.
+   We make brands visible in this digital world using proven strategies crafted research and experience
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Hyvaros Agency
+      value: Hyvaros
       keyName: property
     - name: 'og:description'
       value: >-
-        We help brands thrive in this digital era using well weathered strategies.
+        We make brands visible in this digital world using proven strategies crafted research and experience
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Hyvaros Agency
+      value: Hyvaros
     - name: 'twitter:description'
       value: >-
-        We help brands thrive in this digital era using well weathered strategies.
+        We make brands visible in this digital world using proven strategies crafted research and experience
 layout: advanced
 ---
