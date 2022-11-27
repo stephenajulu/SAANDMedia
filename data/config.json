@@ -5,8 +5,8 @@
     "base_font": "fraunces",
     "header": {
         "title": "Hyvaros",
-        "logo": "images/logo.svg",
-        "logo_alt": "Agency logo",
+        "logo": "images/hyvaroslogo.png",
+        "logo_alt": "Hyvaros logo",
         "has_nav": true,
         "nav_links": [
             {
