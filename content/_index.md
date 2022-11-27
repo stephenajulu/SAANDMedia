@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We make brands visible in this digital world filled with clutter using strategies born from years of ample research and experience with proven success!
+      We make brands visible in this digital world filled with clutter using proven strategies born from years of ample research and experience!
     content: >-
       [Learn more](/contact/).
   - type: portfolio_section
